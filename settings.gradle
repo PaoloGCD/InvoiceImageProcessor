@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name = "Ramhacks-InvoiceScan"
+include ':openCVLibrary341'

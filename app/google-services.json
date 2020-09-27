@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816264874798",
+    "firebase_url": "https://ramhacks-invoicescan.firebaseio.com",
+    "project_id": "ramhacks-invoicescan",
+    "storage_bucket": "ramhacks-invoicescan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816264874798:android:936dbef24d00c75ac408bf",
+        "android_client_info": {
+          "package_name": "com.example.ramhacks_invoicescan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816264874798-id0fspgo5e0nabk14vsh0m20je6d24ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fa3l69Vl4flN4ziYfXVEcstE2TtSgV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816264874798-id0fspgo5e0nabk14vsh0m20je6d24ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
